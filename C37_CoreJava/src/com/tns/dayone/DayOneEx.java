@@ -34,10 +34,7 @@ public class DayOneEx {
 		n.setAge(20);
 		n.setRuns(90);
 		
-		System.out.println(n);
-		
-		
-		
+		System.out.println(n);	
 	} 
 	
 }
