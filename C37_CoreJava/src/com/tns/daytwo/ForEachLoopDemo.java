@@ -11,7 +11,7 @@ public class ForEachLoopDemo {
 			System.out.print(c);
 		}
 		System.out.println(" ");
-		String s1[] = { "Java", "programming", "learning" };
+		String s1[] = { "Java", "programming", "language" };
 
 		for (String s : s1) {
 			System.out.print(s + " ");
